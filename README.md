@@ -13,6 +13,7 @@
 - Sample EDA 
 - Data Dictionaries
 - Model Results
+- Sample Output
 - Conclusion
 
 ## Background
@@ -199,6 +200,12 @@ The following table summarizes the performance of the models:
 
 By evaluating the trade-offs between train and test accuracy, model discrepancies, and runtime, XGBoost Regressor/Classifier has been identified as the best model for demonstrating superior performance with no significant overfitting.
 
+## Sample Output
+<img width="984" height="245" alt="budget_prediction" src="https://github.com/user-attachments/assets/fa266944-e8a4-457c-896b-b4ecc684e3cc" />
+
+<img width="731" height="303" alt="recommended_policy" src="https://github.com/user-attachments/assets/ec5e299f-304b-45fb-b65a-983af443dcba" />
+
+<img width="1728" height="220" alt="other_options" src="https://github.com/user-attachments/assets/ae3640ec-514d-4818-aeff-3d9592724190" />
 
 ## Conclusion
 The results show that our Machine Learning models can make predictions on budget and recommendations for policies well beyond 99% accuracy. Coupled with the added convenience of having budget to policy recommendation all in one space, our product proves to be a quick and reliable solution. Users now do not have to go from one website to another to get the information they need.
