@@ -15,6 +15,9 @@
 - Model Results
 - Sample Output
 - Conclusion
+- App Deployment
+- Additional Links
+- Disclaimer
 
 ## Background
 In Singapore, there is an alarming number of Singaporeans who are underinsured. This is due to several reasons: Having no idea where to start, lack of information on how much to set aside or how much they should be covered for and insurance not being a priority. Although there are benchmark figures to inform people how much they should be covered for or how much they should be spending on insurance, the information online is not convenient. They would have to hop from one website to another to calculate their budget, make comparisons and then decide for themselves which policy they would like to buy (Only for Direct Purchase Insurance (DPI)).
@@ -210,4 +213,12 @@ By evaluating the trade-offs between train and test accuracy, model discrepancie
 ## Conclusion
 The results show that our Machine Learning models can make predictions on budget and recommendations for policies well beyond 99% accuracy. Coupled with the added convenience of having budget to policy recommendation all in one space, our product proves to be a quick and reliable solution. Users now do not have to go from one website to another to get the information they need.
 
+## App Deployment
+
+
+## Additional Links
+
+data: [Comparefirst](https://www.comparefirst.sg)
+
+Disclaimer: This project was done as a capstone for educational purposes only. It is in no way any form of financial advice.
 
