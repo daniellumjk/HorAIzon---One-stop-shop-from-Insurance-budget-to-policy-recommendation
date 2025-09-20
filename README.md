@@ -216,9 +216,11 @@ The results show that our Machine Learning models can make predictions on budget
 ## App Deployment
 
 
-## Additional Links
+## Additional Links and Info
 
-data: [Comparefirst](https://www.comparefirst.sg)
+data: dpi_premium_rates - [Comparefirst](https://www.comparefirst.sg)
+      person_data - synthetic data, generated to fit the local Singapore context through AI
+
 
 Disclaimer: This project was done as a capstone for educational purposes only. It is in no way any form of financial advice.
 
