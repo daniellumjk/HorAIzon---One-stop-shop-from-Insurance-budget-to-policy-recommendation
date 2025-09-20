@@ -1,5 +1,5 @@
 # HorAIzon - A One Stop Shop for Direct Purchase Insurance to budget, compare and recommend
-<img src="C:/Users/Admin/Desktop/capstone/images/project_logo.png" height="100" align="right" alt="AI Insurance Advisory" style="position:relative; top:-85px;">
+<img width="1334" height="752" alt="cover" src="https://github.com/user-attachments/assets/d5a5486c-5e4d-4d69-b5ed-379d1cae6c1d" />
 
 <p style="color:#6a737d; font-style:italic;">
   Presented By: Daniel Lum 
@@ -10,6 +10,7 @@
 - Project Motivation
 - How It Works
 - Getting Started
+- Sample EDA 
 - Data Dictionaries
 - Model Results
 - Conclusion
@@ -48,6 +49,14 @@ scikit_learn==1.4.2
 seaborn==0.13.2
 xgboost==3.0.5
 ```
+
+## Sample EDA
+
+1. New parents looking to start a new family should consider planning ahead for their life insurance and lock in their premiums before the arrival of their first child.
+<img width="1193" height="713" alt="eda_1" src="https://github.com/user-attachments/assets/068a959d-2660-473f-bfd9-66215344ecb1" />
+
+2. Smokers can now have a better view of which comapnies they can consider. 
+<img width="1300" height="742" alt="eda_2" src="https://github.com/user-attachments/assets/948473d2-6766-45d1-acdd-d76ee459dc2e" />
 
 ## Data Dictionary: person_data
 **This dataset can be found in the 'data' folder**
