@@ -9,8 +9,8 @@ hospital_premium = pd.read_csv("/mount/src/horaizon---one-stop-shop-from-insuran
 dpi_premium = pd.read_csv("/mount/src/horaizon---one-stop-shop-from-insurance-budget-to-policy-recommendation/streamlit/dpi_premium_rates.csv")
 
 # --- File Paths --- #
-budget_model_path = 'xgb_regressor_model.pkl'
-dpi_model_path = 'xgboost_classifier_model.pkl'
+budget_model_path = '/mount/src/horaizon---one-stop-shop-from-insurance-budget-to-policy-recommendation/streamlit/xgb_regressor_model.pkl'
+dpi_model_path = '/mount/src/horaizon---one-stop-shop-from-insurance-budget-to-policy-recommendation/streamlit/xgboost_classifier_model.pkl'
 
 # --- App Config --- #
 st.set_page_config(page_title="Insurance Spending Predictor", layout="wide")
