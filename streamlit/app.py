@@ -5,8 +5,8 @@ import random
 from sklearn.preprocessing import LabelEncoder
 
 # --- Loading csv files for use --- #
-hospital_premium = pd.read_csv("hospital_plan_premiums.csv")
-dpi_premium = pd.read_csv("dpi_premium_rates.csv")
+hospital_premium = pd.read_csv("../hospital_plan_premiums.csv")
+dpi_premium = pd.read_csv("../dpi_premium_rates.csv")
 
 # --- File Paths --- #
 budget_model_path = 'xgb_regressor_model.pkl'
